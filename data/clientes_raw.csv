@@ -1,0 +1,301 @@
+﻿Cliente_ID,Nombre,Ciudad,Segmento_Cliente,Fecha_Registro
+CLI-1001,Yolanda Rosa Rubio Perdomo,Cuzco,Corporativo,2024-12-21
+CLI-1002,Alexander Gaitán,Lima,PYME,2025-01-04
+CLI-1003,Andrea Rosalba Bernal,Trujillo,Corporativo,2025-03-02
+CLI-1004,Nubia García Martínez,Arequipa,Corporativo,2024-12-13
+CLI-1005,Pablo Gaviria Mendoza,Cuzco,Corporativo,2025-05-18
+CLI-1006,Mario Buitrago,Cuzco,PYME,2025-03-11
+CLI-1007,Julieth Flor Londoño Fonseca,Piura,Corporativo,2024-12-21
+CLI-1008,Alba Mendoza,Piura,Consumo Final,2025-07-06
+CLI-1009,Jonathan Cabrera,Lima,Corporativo,2024-10-28
+CLI-1010,Marcela Chávez,Lima,Corporativo,2025-02-10
+CLI-1011,Camilo Fernández,Arequipa,PYME,2025-01-25
+CLI-1012,Cristina Carmen Toro Romero,Piura,Corporativo,2024-09-23
+CLI-1013,Cecilia Tania Ortega,Piura,Corporativo,2024-08-19
+CLI-1014,Blanca Bernal Rincón,Cuzco,PYME,2025-01-27
+CLI-1015,Jaime Mauricio Mosquera Blanco,Cuzco,PYME,2024-12-04
+CLI-1016,Angie Magnolia Monroy,Chiclayo,Corporativo,2024-08-24
+CLI-1017,Esperanza Lucy Núñez,Chiclayo,PYME,2025-06-16
+CLI-1018,Andrés Mario Gutiérrez Palacios,Trujillo,Corporativo,2024-10-22
+CLI-1019,Jonathan Chaparro,Arequipa,PYME,2025-02-18
+CLI-1020,Oswaldo Sánchez Polo,Chiclayo,Consumo Final,2025-03-20
+CLI-1021,Augusto Manuel Córdoba Herrera,Trujillo,Corporativo,2024-11-11
+CLI-1022,María Shirley Ramírez Sierra,Arequipa,Consumo Final,2025-03-04
+CLI-1023,Yeimy Paola Alfonso Bolívar,Lima,Corporativo,2025-06-10
+CLI-1024,Laura Cuesta,Chiclayo,Corporativo,2025-07-17
+CLI-1025,Emilia Sánchez Ospina,Trujillo,Consumo Final,2025-07-20
+CLI-1026,Miriam Martha Calderón,Piura,Consumo Final,2025-02-17
+CLI-1027,Dolly Álvarez Ávila,Lima,PYME,2025-07-12
+CLI-1028,Brayan Quintero Córdoba,Chiclayo,PYME,2025-04-29
+CLI-1029,Angie Ruiz Bautista,Lima,Consumo Final,2025-02-22
+CLI-1030,Miguel Durán Vanegas,Lima,PYME,2025-03-07
+CLI-1031,León Carlos Salazar,Trujillo,PYME,2024-11-15
+CLI-1032,Lucila García Valencia,Piura,Consumo Final,2025-02-08
+CLI-1033,Lucía Patricia Espitia Fernández,Piura,Corporativo,2025-04-06
+CLI-1034,Andrés Rafael Bravo,Cuzco,Corporativo,2024-09-08
+CLI-1035,Karen Mora,Lima,PYME,2025-05-21
+CLI-1036,Luz Martha Prada López,Arequipa,Consumo Final,2024-08-25
+CLI-1037,Patricia Pérez Galvis,Lima,Corporativo,2025-04-17
+CLI-1038,Andrey García Arias,Lima,Consumo Final,2025-07-08
+CLI-1039,Johana Maribel Torres García,Trujillo,Consumo Final,2025-07-25
+CLI-1040,Liliana Bibiana Blanco,Cuzco,Consumo Final,2024-09-19
+CLI-1041,Héctor Díaz Osorio,Arequipa,Consumo Final,2025-06-21
+CLI-1042,David Farid Hernández Fernández,Trujillo,Corporativo,2024-09-24
+CLI-1043,Blanca Patricia Martínez Rico,Cuzco,Consumo Final,2024-11-02
+CLI-1044,Ester Luisa Sánchez,Cuzco,PYME,2025-02-06
+CLI-1045,Ángela Carolina Parra,Cuzco,Corporativo,2024-09-27
+CLI-1046,Libia Jackeline Portilla Jaimes,Piura,PYME,2024-10-12
+CLI-1047,Alberto Meza,Arequipa,PYME,2025-06-22
+CLI-1048,Enrique Gómez Patiño,Cuzco,Corporativo,2025-06-24
+CLI-1049,Daniela Libia Zapata Rincón,Arequipa,Consumo Final,2025-07-11
+CLI-1050,Ingrid Mariana Rodríguez Sierra,Chiclayo,Consumo Final,2025-01-29
+CLI-1051,Lucía Niño,Cuzco,PYME,2025-04-06
+CLI-1052,Nohora Paola Monroy Díaz,Piura,Corporativo,2024-10-31
+CLI-1053,Ligia Doris Orozco Peña,Cuzco,Consumo Final,2024-11-11
+CLI-1054,Astrid Arévalo,Lima,Corporativo,2025-04-17
+CLI-1055,Claudia Sánchez,Lima,Consumo Final,2025-02-19
+CLI-1056,José Ramírez Arias,Chiclayo,Consumo Final,2024-09-25
+CLI-1057,Eliecer Zuluaga,Lima,Corporativo,2025-03-09
+CLI-1058,Mauricio Marín,Piura,PYME,2025-05-13
+CLI-1059,Héctor Antonio Vergara,Trujillo,Corporativo,2025-05-14
+CLI-1060,José Rigoberto Moreno Mosquera,Cuzco,Consumo Final,2025-04-28
+CLI-1061,Nataly Calderón Sánchez,Chiclayo,PYME,2025-05-02
+CLI-1062,Olga Franco Peña,Chiclayo,Corporativo,2025-06-09
+CLI-1063,Blanca Claudia Gómez,Trujillo,Corporativo,2025-01-22
+CLI-1064,Carmen Muñoz,Arequipa,PYME,2025-06-28
+CLI-1065,Ángela Linda Cano Carvajal,Piura,PYME,2025-05-14
+CLI-1066,Claudia Vergara Sánchez,Trujillo,PYME,2024-12-18
+CLI-1067,Esperanza Gutiérrez,Piura,Consumo Final,2024-09-05
+CLI-1068,Julio Luis Vargas,Piura,Consumo Final,2024-09-10
+CLI-1069,Isabel Jenny Osorio Salazar,Trujillo,Corporativo,2024-12-03
+CLI-1070,Carlos Miguel Ortiz Giraldo,Arequipa,PYME,2024-10-16
+CLI-1071,Andrés Humberto Velásquez Ojeda,Chiclayo,Corporativo,2024-12-04
+CLI-1072,Cristina Flórez,Lima,Corporativo,2025-06-20
+CLI-1073,María Gloria Rodríguez,Arequipa,PYME,2025-02-20
+CLI-1074,Humberto José Vergara Delgado,Arequipa,PYME,2025-06-22
+CLI-1075,Antonio Brayan González,Chiclayo,PYME,2024-10-14
+CLI-1076,Angie Flor Montoya,Lima,Consumo Final,2024-11-09
+CLI-1077,Javier Ariza,Chiclayo,PYME,2025-04-08
+CLI-1078,Consuelo Rincón,Chiclayo,PYME,2024-10-01
+CLI-1079,Cristina Ramos Morales,Trujillo,PYME,2025-06-22
+CLI-1080,Elkin Jaimes Ortega,Lima,PYME,2025-06-30
+CLI-1081,Valentina Sandra Gómez,Cuzco,Corporativo,2024-11-07
+CLI-1082,Salvador Ortiz,Cuzco,PYME,2024-09-16
+CLI-1083,Arley Gaitán,Trujillo,PYME,2025-02-28
+CLI-1084,Juan Edgar Navarro Rojas,Trujillo,Corporativo,2025-03-16
+CLI-1085,Jonathan Didier Acosta Bonilla,Trujillo,Consumo Final,2025-02-28
+CLI-1086,Eduardo Jaime Bustos López,Arequipa,Consumo Final,2024-09-04
+CLI-1087,Federico Moreno,Lima,PYME,2024-08-30
+CLI-1088,Sebastián Alzate,Cuzco,Consumo Final,2025-04-22
+CLI-1089,Óscar Miguel Villegas,Piura,Corporativo,2024-11-26
+CLI-1090,Gloria Sánchez Rodríguez,Piura,Corporativo,2025-01-29
+CLI-1091,Olga Salas,Cuzco,Consumo Final,2025-03-19
+CLI-1092,Carlos Jimmy Restrepo,Cuzco,PYME,2025-02-21
+CLI-1093,Cristina Zapata,Piura,Corporativo,2025-04-02
+CLI-1094,Elizabeth Dayana Becerra Ceballos,Arequipa,Consumo Final,2025-04-08
+CLI-1095,Andrés García Sánchez,Arequipa,PYME,2024-10-05
+CLI-1096,Miguel José Agudelo Caicedo,Piura,Corporativo,2025-07-12
+CLI-1097,Hilda Villamil,Piura,Consumo Final,2024-09-23
+CLI-1098,Nora Magda Espinosa Ortiz,Chiclayo,Corporativo,2024-08-04
+CLI-1099,Antonio Gómez,Lima,Consumo Final,2024-11-02
+CLI-1100,Alberto Castro,Trujillo,Corporativo,2024-10-19
+CLI-1101,Silvia Bohórquez,Lima,Corporativo,2025-02-03
+CLI-1102,Stella Leal Bermúdez,Piura,Corporativo,2025-04-03
+CLI-1103,Henry Hernán López,Lima,PYME,2024-09-01
+CLI-1104,Fanny Marcela Rodríguez,Chiclayo,Corporativo,2024-12-17
+CLI-1105,Yineth Delgado,Piura,Corporativo,2025-01-23
+CLI-1106,Alexander Arias Aguilar,Arequipa,PYME,2025-04-11
+CLI-1107,Pablo Ariza,Chiclayo,PYME,2025-05-06
+CLI-1108,Aldemar Óscar Forero Silva,Arequipa,Consumo Final,2024-09-28
+CLI-1109,Lina Arias,Piura,PYME,2025-04-03
+CLI-1110,Mauricio Neider Restrepo Valderrama,Chiclayo,Corporativo,2025-06-06
+CLI-1111,Sandra Sepúlveda Velásquez,Piura,PYME,2025-06-22
+CLI-1112,Mauricio Rodrigo Mendoza,Cuzco,Corporativo,2025-04-18
+CLI-1113,Stella Matilde Vega Rubio,Cuzco,Consumo Final,2025-01-11
+CLI-1114,Julián Jeison Medina,Chiclayo,PYME,2024-12-16
+CLI-1115,Jesús Yeferson Cruz,Cuzco,Consumo Final,2024-09-13
+CLI-1116,Roberto Pérez Medina,Chiclayo,PYME,2024-11-04
+CLI-1117,María Edilma Arango Palacios,Chiclayo,Corporativo,2025-05-11
+CLI-1118,John Pérez,Arequipa,Corporativo,2024-10-26
+CLI-1119,Camila Ana Rengifo,Lima,Consumo Final,2024-09-10
+CLI-1120,Patricia Padilla,Lima,PYME,2025-05-08
+CLI-1121,Catalina Cecilia Ríos,Piura,Corporativo,2025-06-18
+CLI-1122,Roberto Diego Marín Giraldo,Piura,Corporativo,2025-01-12
+CLI-1123,Pilar Martínez Soto,Lima,Corporativo,2025-06-18
+CLI-1124,César Ortiz,Cuzco,PYME,2024-09-15
+CLI-1125,María Guerra Cruz,Lima,Corporativo,2024-12-22
+CLI-1126,Esther Vargas,Lima,Corporativo,2024-11-07
+CLI-1127,Luis José Benítez Villegas,Trujillo,Corporativo,2025-01-02
+CLI-1128,Fabián Ospina,Piura,Corporativo,2025-07-14
+CLI-1129,Mónica Barrios González,Trujillo,PYME,2025-01-16
+CLI-1130,Smith Moreno,Chiclayo,Corporativo,2024-09-08
+CLI-1131,Gloria Carolina Garcés Romero,Piura,Corporativo,2025-04-24
+CLI-1132,Cristina Johanna Bautista,Cuzco,PYME,2025-02-22
+CLI-1133,Dina Salazar,Piura,Consumo Final,2025-02-28
+CLI-1134,Albeiro Ruiz Morales,Arequipa,Consumo Final,2024-12-19
+CLI-1135,Inés Valencia,Chiclayo,Corporativo,2024-12-13
+CLI-1136,Duván Uribe Gutiérrez,Lima,Corporativo,2024-09-17
+CLI-1137,Luis Giraldo,Cuzco,Consumo Final,2025-01-02
+CLI-1138,Bertha Zapata,Trujillo,Consumo Final,2025-06-21
+CLI-1139,Gabriel Escobar Reyes,Chiclayo,Consumo Final,2025-04-30
+CLI-1140,Miriam María Salazar Burbano,Cuzco,Corporativo,2024-09-06
+CLI-1141,Enith Esperanza González,Cuzco,PYME,2024-11-22
+CLI-1142,Nicolás Quiroga,Cuzco,Corporativo,2024-09-14
+CLI-1143,Edwin Stiven Manrique,Lima,Consumo Final,2025-05-31
+CLI-1144,Aida Paola Morales Soto,Cuzco,Consumo Final,2025-02-21
+CLI-1145,Luis Carlos Pulido Rincón,Lima,Corporativo,2025-06-24
+CLI-1146,Johana Marín Alarcón,Arequipa,Corporativo,2025-05-22
+CLI-1147,Sandra Jaimes Rodríguez,Piura,Consumo Final,2024-07-27
+CLI-1148,Patricia Castro García,Arequipa,Consumo Final,2025-03-30
+CLI-1149,Mario Edwin Cano,Arequipa,Consumo Final,2025-03-29
+CLI-1150,Edison Anderson Monroy Vallejo,Chiclayo,Corporativo,2025-06-20
+CLI-1151,Jesús Jairo Barragán,Lima,Consumo Final,2024-09-23
+CLI-1152,Juan Dario López Toro,Piura,Corporativo,2024-12-14
+CLI-1153,Carlos Molano,Lima,PYME,2025-05-20
+CLI-1154,Vanessa Velásquez Buitrago,Piura,Corporativo,2025-01-09
+CLI-1155,Manuel Restrepo,Lima,Corporativo,2024-10-21
+CLI-1156,Smith Antonio Muñoz,Arequipa,Consumo Final,2024-10-22
+CLI-1157,Carlos Sánchez Velásquez,Chiclayo,Consumo Final,2025-01-04
+CLI-1158,Andrés Héctor Romero Marín,Arequipa,Consumo Final,2024-11-10
+CLI-1159,Liliana Sandra Yepes,Lima,Corporativo,2025-05-05
+CLI-1160,Pedro Antonio Camacho Cano,Chiclayo,Corporativo,2024-11-08
+CLI-1161,Alexander Restrepo,Chiclayo,Consumo Final,2025-05-28
+CLI-1162,Jairo Marco Franco Bautista,Chiclayo,Consumo Final,2025-07-20
+CLI-1163,William Gómez Herrera,Chiclayo,PYME,2025-03-08
+CLI-1164,José Rafael Sierra,Cuzco,PYME,2025-07-19
+CLI-1165,Helena María Escobar,Cuzco,PYME,2025-06-29
+CLI-1166,Lorena Catherine Tovar Mosquera,Chiclayo,Corporativo,2025-03-26
+CLI-1167,Dario Jesús Mora,Arequipa,Consumo Final,2025-01-02
+CLI-1168,Diana Paola Jiménez Vanegas,Arequipa,Corporativo,2024-08-11
+CLI-1169,Diana Julieth Díaz,Piura,PYME,2024-11-28
+CLI-1170,Viviana Soto,Piura,Corporativo,2024-12-29
+CLI-1171,Víctor Montenegro Benavides,Cuzco,Consumo Final,2025-04-18
+CLI-1172,Andrés Daniel Ramírez Valencia,Lima,Corporativo,2025-05-03
+CLI-1173,Sandra Diana Monroy Roa,Piura,Consumo Final,2024-12-16
+CLI-1174,Alberto Eduardo Ospino,Piura,PYME,2024-10-10
+CLI-1175,Carlos Juan Suárez,Arequipa,Corporativo,2025-03-20
+CLI-1176,José Juan Hernández Guzmán,Piura,Corporativo,2025-04-02
+CLI-1177,Elena Mosquera,Arequipa,Corporativo,2024-12-02
+CLI-1178,Carlos Andrés Franco,Piura,Corporativo,2025-06-20
+CLI-1179,Lorena Pineda,Cuzco,Corporativo,2024-08-10
+CLI-1180,Fernando Enrique Álvarez Galeano,Chiclayo,Corporativo,2024-09-23
+CLI-1181,Franklin Alberto Parra,Piura,Corporativo,2024-09-27
+CLI-1182,Carolina Clara Gómez,Piura,PYME,2025-02-24
+CLI-1183,María María Ramírez,Lima,PYME,2025-01-21
+CLI-1184,Marta Inés López,Lima,Consumo Final,2024-08-13
+CLI-1185,Manuel Diego Rodríguez,Cuzco,PYME,2024-07-30
+CLI-1186,María Ruth Chacón,Piura,PYME,2025-07-20
+CLI-1187,Edgardo Dario Rojas Chávez,Trujillo,Consumo Final,2024-09-13
+CLI-1188,Mónica Ramos,Arequipa,PYME,2025-03-22
+CLI-1189,Luz Gómez,Cuzco,Consumo Final,2025-01-19
+CLI-1190,Ferney Nicolás Gómez,Arequipa,Consumo Final,2024-11-25
+CLI-1191,Lilia Leidy Orozco,Chiclayo,Corporativo,2025-06-04
+CLI-1192,Stiven Ramírez,Cuzco,PYME,2025-02-05
+CLI-1193,Patricia Alejandra Mendoza,Trujillo,Consumo Final,2024-09-14
+CLI-1194,Juan Sánchez Sánchez,Trujillo,Corporativo,2025-03-07
+CLI-1195,Enrique Castellanos,Lima,Consumo Final,2025-04-17
+CLI-1196,Estiven Luis Reyes Palacios,Piura,PYME,2024-10-22
+CLI-1197,Antonio Moreno Sánchez,Lima,Corporativo,2025-05-16
+CLI-1198,Sebastián Jaime Restrepo,Piura,Corporativo,2024-12-16
+CLI-1199,Nancy Gómez,Piura,Consumo Final,2024-08-22
+CLI-1200,Miguel Freddy Garzón Martínez,Arequipa,Consumo Final,2024-10-28
+CLI-1201,Hernán Álvaro Lara Contreras,Lima,Corporativo,2024-09-19
+CLI-1202,Pilar Carmen Herrera,Trujillo,Consumo Final,2025-03-16
+CLI-1203,Cecilia Beatriz Agudelo,Arequipa,Consumo Final,2025-03-18
+CLI-1204,Nancy Nidia Henao,Piura,PYME,2025-03-16
+CLI-1205,Nilson Jaimes,Trujillo,PYME,2024-10-25
+CLI-1206,Ferney Fernando Vanegas Carvajal,Cuzco,PYME,2025-07-17
+CLI-1207,Óscar Moreno Carmona,Lima,PYME,2024-09-08
+CLI-1208,Santiago Vargas,Piura,Consumo Final,2025-06-08
+CLI-1209,Angélica Blanca Tovar Carvajal,Cuzco,Corporativo,2025-04-01
+CLI-1210,Nelly González,Arequipa,Consumo Final,2024-10-20
+CLI-1211,Tatiana Andrea Pedraza Ardila,Lima,Corporativo,2024-10-19
+CLI-1212,Fabiola María Martínez,Cuzco,PYME,2024-09-30
+CLI-1213,Claudia María Castro,Arequipa,Consumo Final,2024-08-02
+CLI-1214,Armando Cristian Bonilla Benítez,Trujillo,PYME,2025-03-30
+CLI-1215,Fredy Julio Soto Ordóñez,Arequipa,PYME,2025-01-07
+CLI-1216,Camilo Elvis Hernández,Trujillo,Corporativo,2025-01-04
+CLI-1217,Óscar Alonso Hernández,Cuzco,PYME,2025-04-15
+CLI-1218,Dario Pulido Hernández,Trujillo,PYME,2025-03-02
+CLI-1219,Mario Salgado Ruiz,Chiclayo,Consumo Final,2024-08-04
+CLI-1220,Myriam Blanco Romero,Lima,Corporativo,2025-06-03
+CLI-1221,Nelson Libardo Álvarez,Cuzco,Consumo Final,2024-07-29
+CLI-1222,Victoria Rodríguez Serrano,Trujillo,Corporativo,2024-08-05
+CLI-1223,Laura Liliana Ramos,Lima,Consumo Final,2024-12-02
+CLI-1224,Natalia Patricia Herrera,Arequipa,PYME,2025-02-15
+CLI-1225,Felipe Parra Bravo,Trujillo,Corporativo,2024-10-16
+CLI-1226,Olga Amparo Aguirre Cardona,Cuzco,Consumo Final,2025-01-23
+CLI-1227,María Milena Ramírez López,Piura,PYME,2025-05-02
+CLI-1228,Leonardo Omar Erazo,Chiclayo,PYME,2024-08-30
+CLI-1229,Andrea García Ospina,Lima,Corporativo,2025-03-06
+CLI-1230,Daniel Restrepo Barrera,Lima,PYME,2025-04-08
+CLI-1231,Fabián Alberto Bernal,Arequipa,PYME,2025-02-07
+CLI-1232,Diego Fuentes,Lima,Consumo Final,2024-11-28
+CLI-1233,Edgar Muñoz,Piura,PYME,2024-12-02
+CLI-1234,Gloria Socorro Ávila Hernández,Arequipa,Consumo Final,2025-03-26
+CLI-1235,Yeison García,Arequipa,Corporativo,2025-06-15
+CLI-1236,Maribel Laura Bastidas,Trujillo,Consumo Final,2025-03-19
+CLI-1237,Edwin Camilo Sánchez,Lima,Consumo Final,2025-07-07
+CLI-1238,Patricia Daniela Barreto Pérez,Arequipa,PYME,2025-05-30
+CLI-1239,Eduardo Orjuela Daza,Arequipa,PYME,2025-04-22
+CLI-1240,Ingrid María Jiménez Palacios,Lima,Consumo Final,2025-06-06
+CLI-1241,Vanessa Sánchez Orozco,Piura,Consumo Final,2024-09-11
+CLI-1242,Patricia Lilia Morales Espitia,Piura,PYME,2025-06-13
+CLI-1243,Orlando Méndez,Arequipa,Corporativo,2025-03-29
+CLI-1244,Giovanny Nicolás Posada Mejía,Arequipa,Corporativo,2025-05-13
+CLI-1245,Alicia González Acosta,Chiclayo,Corporativo,2024-11-05
+CLI-1246,Javier Sergio Reyes,Arequipa,PYME,2025-03-22
+CLI-1247,Alejandro Víctor Chávez,Trujillo,Consumo Final,2025-01-08
+CLI-1248,Libia Angulo Velasco,Cuzco,PYME,2025-04-30
+CLI-1249,Patricia Londoño,Arequipa,Consumo Final,2024-10-11
+CLI-1250,Adiela Alejandra Díaz Álvarez,Arequipa,PYME,2025-03-20
+CLI-1251,Dario José Maldonado,Lima,Consumo Final,2025-03-11
+CLI-1252,Jefferson Edwar Nieto Muñoz,Lima,Consumo Final,2024-09-03
+CLI-1253,Alberto Duque,Arequipa,Corporativo,2025-05-03
+CLI-1254,Julio Aldair Castillo Buitrago,Chiclayo,Consumo Final,2024-09-27
+CLI-1255,John Julio Moreno,Trujillo,Corporativo,2025-03-05
+CLI-1256,María Rodríguez Mendoza,Arequipa,Corporativo,2024-10-03
+CLI-1257,Juan Alberto Rodríguez,Cuzco,Corporativo,2025-06-03
+CLI-1258,Aurora Elena Peña,Chiclayo,Consumo Final,2024-08-11
+CLI-1259,Carmen Suárez Contreras,Trujillo,Corporativo,2025-03-26
+CLI-1260,Jazmín Sanabria Pérez,Trujillo,Consumo Final,2024-09-22
+CLI-1261,Josefina Carolina Díaz Castellanos,Cuzco,PYME,2025-04-22
+CLI-1262,Nelly Rodríguez Gómez,Chiclayo,PYME,2025-05-14
+CLI-1263,Juliana Mery Díaz Acosta,Piura,Consumo Final,2025-06-08
+CLI-1264,Juan Díaz,Lima,Corporativo,2025-06-19
+CLI-1265,Mónica Contreras,Trujillo,Corporativo,2025-01-23
+CLI-1266,Jacqueline Cardona Lozano,Piura,Consumo Final,2024-08-17
+CLI-1267,José Ricardo Quintero Alzate,Lima,Corporativo,2024-12-07
+CLI-1268,Luz Flor Martínez,Piura,Consumo Final,2025-06-22
+CLI-1269,Paola Quintero,Trujillo,PYME,2025-04-06
+CLI-1270,Cecilia Amparo Caicedo Rodríguez,Trujillo,Consumo Final,2024-09-06
+CLI-1271,Nicolás Zapata Castaño,Piura,PYME,2024-12-02
+CLI-1272,Ricardo Giovanny Galindo,Lima,Consumo Final,2025-01-09
+CLI-1273,Ruby Zulma Salazar Rodríguez,Piura,Corporativo,2025-01-30
+CLI-1274,Yeison Andrés Ceballos Cruz,Trujillo,Corporativo,2024-08-04
+CLI-1275,Edilma María Rendón Caballero,Cuzco,Consumo Final,2025-07-17
+CLI-1276,Jhoan Juan Bonilla,Lima,PYME,2024-12-17
+CLI-1277,Yanet Mendoza Quiroz,Piura,PYME,2025-05-28
+CLI-1278,Elena Sandra Posada Ortiz,Cuzco,PYME,2024-10-15
+CLI-1279,Yulieth Vélez,Cuzco,PYME,2025-04-06
+CLI-1280,Lizeth Diana Ordóñez Arteaga,Arequipa,Consumo Final,2024-11-07
+CLI-1281,Martha Mora,Chiclayo,Corporativo,2025-04-19
+CLI-1282,María Amelia Quiroz,Cuzco,Consumo Final,2024-10-09
+CLI-1283,Yohana María Espinosa Ramírez,Piura,Consumo Final,2024-10-19
+CLI-1284,Laura Gómez,Cuzco,Corporativo,2024-12-09
+CLI-1285,Edgar Luis Romero Agudelo,Cuzco,Consumo Final,2025-04-15
+CLI-1286,Isabel Ortiz López,Piura,Consumo Final,2025-04-19
+CLI-1287,Sara Chávez,Cuzco,Consumo Final,2025-04-03
+CLI-1288,David Rueda Ayala,Trujillo,Consumo Final,2025-01-01
+CLI-1289,Martha Martha Silva Mora,Cuzco,Consumo Final,2025-04-30
+CLI-1290,Daniel Giraldo Meza,Piura,Corporativo,2025-05-29
+CLI-1291,Alfredo Juan Duque,Arequipa,Consumo Final,2024-12-30
+CLI-1292,Liliana Castro Peña,Cuzco,Consumo Final,2025-02-19
+CLI-1293,Liliana Nayibe Garzón,Cuzco,PYME,2025-01-25
+CLI-1294,Mariela María Gonzáles,Arequipa,PYME,2025-05-19
+CLI-1295,Jorge Ruiz Mercado,Piura,Consumo Final,2024-09-14
+CLI-1296,Myriam Marcela Chávez Bermúdez,Chiclayo,PYME,2024-10-17
+CLI-1297,Alexandra Carmona,Lima,Consumo Final,2025-06-18
+CLI-1298,Jorge Luis Ramírez,Trujillo,Corporativo,2024-12-22
+CLI-1299,Aura Julia Ortega,Chiclayo,PYME,2025-07-23
+CLI-1300,Angélica Molina Andrade,Piura,PYME,2024-12-23
